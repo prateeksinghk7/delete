@@ -1,0 +1,29 @@
+Problem 1: Array Sum
+Write a PHP function that takes an array of numbers as input and returns the sum of all the numbers in the array.
+
+Problem 2: Array Average
+Create a PHP function that calculates the average of the numbers in an array.
+
+Problem 3: Array Reversal
+Write a PHP function that takes an array as input and returns a new array with the elements reversed.
+
+Problem 4: Find Maximum
+Design a PHP function that finds and returns the maximum value in an array of numbers.
+
+Problem 5: Array Intersection
+Create a PHP function that takes two arrays as input and returns an array containing the common elements between the two input arrays.
+
+Problem 6: Palindrome Check
+Write a PHP function that checks whether a given string is a palindrome (reads the same forwards and backwards).
+
+Problem 7: Array Merge
+Design a PHP function that merges two arrays into a single array, maintaining the original order of elements.
+
+Problem 8: Prime Numbers
+Create a PHP function that generates an array of prime numbers up to a given limit.
+
+Problem 9: Unique Elements
+Write a PHP function that takes an array as input and returns a new array with only the unique elements (removing duplicates).
+
+Problem 10: Array Shuffle
+Design a PHP function that shuffles the elements of an array randomly.
